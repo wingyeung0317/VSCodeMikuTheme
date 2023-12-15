@@ -1,0 +1,33 @@
+{
+	"name": "miku",
+	"displayName": "Miku Theme",
+	"description": "初音-轻",
+	"version": "0.0.1",
+	"publisher": "Petrel Rebel",
+	"icon": "icon/logo.png",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"keywords": [
+		"theme",
+		"light",
+		"dark",
+		"miku"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Miku",
+				"uiTheme": "vs",
+				"path": "./themes/Miku-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wingyeung0317/MyVSCodeProfile"
+	}
+}

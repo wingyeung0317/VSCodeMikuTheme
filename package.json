@@ -1,9 +1,9 @@
 {
 	"name": "miku",
 	"displayName": "Miku Theme",
-	"description": "初音-轻",
+	"description": "Hatsune Miku Style Theme By wingyeung0317",
 	"version": "0.0.1",
-	"publisher": "Petrel Rebel",
+	"publisher": "wingyeung0317",
 	"icon": "icon/logo.png",
 	"engines": {
 		"vscode": "^1.77.0"
@@ -28,6 +28,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/wingyeung0317/MyVSCodeProfile"
+		"url": "https://github.com/wingyeung0317/VSCodeMikuTheme.git"
 	}
 }
